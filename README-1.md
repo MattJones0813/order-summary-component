@@ -22,14 +22,28 @@ My solution to this was to add a simple hover effect on the CTA button
 
 ### Screenshots
 
-![desktop screenshot](images\desktop-screenshot.png)
-![mobile screenshot](images\mobile-screenshot.png)
+![desktop screenshot](https://github.com/MattJones0813/order-summary-component/blob/main/order-summary-component-main/images/desktop-screenshot.png)
+![mobile screenshot](https://github.com/MattJones0813/order-summary-component/blob/main/order-summary-component-main/images/mobile-screenshot.png)
 
 ### Links
 
 - Live Site URL: (https://order-summary-component-responsive.netlify.app/)
 
 ## My process
+
+Firstly I started by looking at the style guide and then added all of the basic properties 
+into a general css file. Then after spending a few minutes studying the design guidelines 
+I started to write the HTML and after adding all of the relative content from the design.md 
+I moved on to styling the design. After creating the basic design with Flexbox/ Grid 
+I then added a media query which allowed the design to be responsive to mobile designs. 
+
+The original timescale I set myself for this challenge was 1 hour which given my current 
+skillset was a tough goal to achieve, 
+The whole project took my approximately 3 hours start to finish which I'm quite happy 
+with as this is the first project I have completed on my own. 
+To improve I need to become
+more comfortable with the flexbox and grid properties as this would have helped to make 
+the design process easier. 
 
 ### Built with
 
